@@ -1,7 +1,7 @@
 <?php
-echo "Hello world";
+echo "Hello worldaaaaaaaaaaaaaaaaaaaaaaaaa";
 $a = "variable";
 $b = $a;
 echo $b;
 //oorchlolt
-//hiiw
+//hiiwaaaaaaaaaaaaaaaaa
